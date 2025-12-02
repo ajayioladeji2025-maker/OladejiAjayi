@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://img.shields.io/badge/OLADEJI%20AJAYI-Cybersecurity%20Expert-0078FF?style=for-the-badge&logo=microsoftdefender&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/SOC-Blue%20Team-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Threat%20Detection-KQL%20%7C%20SPL-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/GRC-ISO%2027001%20%7C%20Risk-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud-Microsoft%20Security-007FFF?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/OLADEJI%20AJAYI-Cybersecurity%20Expert-0078FF?style=for-the-badge&logo=microsoftdefender&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/SOC-Blue%20Team-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Threat%20Detection-KQL%20%7C%20SPL-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/GRC-ISO%2027001%20%7C%20Risk-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microsoft-Security%20Stack-007FFF?style=for-the-badge" /> </p>
 🛰️ About Me
 
-I am a Cybersecurity Expert specialising in:
+I am a Cybersecurity Expert with advanced capability in:
 
 Security Operations (SOC)
 
@@ -11,231 +11,138 @@ Incident Response
 
 Governance, Risk & Compliance (GRC)
 
-ISO 27001 & Essential Eight maturity
+ISO 27001 & Essential Eight
 
-Threat Hunting & Adversary Mapping
+Threat Hunting
 
-Currently:
+Currently engaged with:
 
-🛡️ Cybersecurity Intern at CyberEdge Cybersecurity
+🛡️ CyberEdge Cybersecurity — Cybersecurity Intern
 
-🎓 SOC & GRC Cohort Trainee at CyberNova Academy
+🎓 CyberNova Academy — SOC & GRC Cohort
 
-My strength is combining deep analytics + technical cyber defence + governance strategy to build resilient security programs.
+I combine analytics + cyber defence + governance to deliver measurable cybersecurity outcomes.
 
 📌 Table of Contents
-
-Use this to navigate easily 👉
-
-🛰️ About Me
-
+Section	Description
+🎓 Education	Degrees & certifications
+🧑🏽‍💻 Experience	Cyber + prior industry work
+🛡 Skills Table	Clean visual skill matrix
+📟 Tools Table	Beautiful tool breakdown
+🗂 Portfolio	Project folder structure
+🚀 Featured Projects	Best work displayed in tables
+📘 Templates	Copy-ready IR, KQL, GRC templates
+🌐 Connect	LinkedIn, Email
 🎓 Education
-
-🧑🏽‍💻 Experience
-
-🛡️ Cybersecurity Skills
-
-📟 Tools & Platforms
-
-🗂️ Portfolio Structure
-
-🚀 Featured Projects
-
-📘 Templates
-
-🌐 Connect
-
-🎓 Education
-
-🎓 MSc — Business Information Systems
-🎓 MSc — Mathematics
-🎓 BSc — Industrial Mathematics
-🎓 Associate Member — Australian Computer Society
-
+Qualification	Institution
+MSc – Business Information Systems	Torrens University Australia
+MSc – Mathematics	University of Ibadan
+BSc – Industrial Mathematics	AAUA
+Associate Member	Australian Computer Society
 🧑🏽‍💻 Experience
 🛡️ Cybersecurity Intern — CyberEdge Cybersecurity
-
-2025 — Present
-
-What I do:
-
-SIEM monitoring (Sentinel, Splunk)
-
-Alert triage, log analysis, escalation
-
-Detection rule testing & tuning
-
-Threat intelligence enrichment
-
-Governance documentation & audit support
-
-Risk assessment contributions
-
-Working with real enterprise security data
-
-🛰️ SOC & GRC Trainee — CyberNova Academy
-
-SOC & GRC Cohort
-
-Training includes:
-
-Detection engineering (KQL/SPL/Sigma)
-
-Threat hunting (MITRE-ATT&CK)
-
-SOAR automations
-
-Incident Response lifecycle
-
-ISO 27001 ISMS documentation
-
-Essential Eight alignment
-
-Policy & control development
-
+Responsibility	Activities
+SIEM Monitoring	Sentinel & Splunk alert triage, log correlation, escalation
+Threat Detection	Rule tuning, false-positive reduction, MITRE mapping
+Incident Analysis	Authentication attacks, malware attempts, network anomalies
+Risk & GRC Support	Risk assessments, control documentation, audit evidence
+Threat Intel	Enrichment using OSINT, IOC triage
+Governance Work	Policies, procedures, compliance mapping
+🛰️ CyberNova Academy — SOC & GRC Trainee
+Area	Coverage
+Detection Engineering	KQL, SPL, Sigma → SIEM rules
+Threat Hunting	Hypothesis-driven hunts, pivots, ATT&CK-based
+Incident Response	Triage → Containment → Eradication → Recovery
+SOAR Automation	Shuffle playbooks, alerts enrichment
+ISO 27001 Work	ISMS scope, SoA, risk register, policies
+Audit Readiness	Evidence creation, internal control mapping
 💼 Business Analyst — Ministry of Economic Planning
-
-(Résumé-verified)
-
-Key Achievements:
-
-+15% increase in revenue via analytics
-
-+10% efficiency improvement
-
-20% reduction in inventory cost
-
-+25% stakeholder satisfaction
-
--10% operational expense
-
-(These support cyber risk decisions, threat modelling & reporting.)
-
-🛡️ Cybersecurity Skills
-⭐ Core Expertise
-
-SOC Analysis
-
-Threat Detection Engineering
-
-Incident Response (NIST IR model)
-
-Threat Hunting (Endpoint, Network, Cloud)
-
-ISO 27001 Governance
-
-Risk Management & Compliance
-
-Security Automation (SOAR)
-
-Case Management (TheHive workflows)
-
-📟 Tools & Platforms
-🔹 SIEM
-<p> <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic%20Security-005571?style=for-the-badge&logo=elastic&logoColor=white" /> </p>
-🔹 EDR / DFIR
-<p> <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=ghost&logoColor=white" /> </p>
-🔹 Network / Traffic Analysis
-<p> <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" /> <img src="https://img.shields.io/badge/Zeek-9370DB?style=for-the-badge&logo=linux&logoColor=white" /> </p>
-🔹 Data & Engineering
-<p> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </p>
+Outcome	Results
+Revenue	+15% revenue insight improvement
+Efficiency	+10% operational optimisation
+Inventory	-20% inventory reduction
+Stakeholder Engagement	+25% satisfaction improvement
+Cost Reduction	-10% OPEX improvement
+🛡️ Cybersecurity Skills Table
+Category	Skills
+SOC / Detection	SIEM, KQL, SPL, Sigma Rules, Log Analysis, Event Correlation
+Threat Hunting	MITRE ATT&CK, Pivoting, Network Hunts, Endpoint Hunts
+Incident Response	IR Lifecycle, Case Management, Containment Strategies
+GRC & Risk	ISO 27001, Essential Eight, Risk Registers, Policies
+DFIR	Velociraptor, DFIR triage, Windows/Linux artifact analysis
+Networking	DNS, HTTP/S, TLS, VPN, Proxies
+Analytics	SQL, Power BI, Tableau, Modelling
+Documentation	Runbooks, Playbooks, Audit Evidence
+📟 Tools & Platforms — Table Format
+Category	Tools
+SIEM	Microsoft Sentinel, Splunk, Elastic
+EDR / DFIR	Microsoft Defender for Endpoint, Velociraptor
+Network Analysis	Wireshark, Suricata, Zeek
+Threat Intel	VirusTotal, AbuseIPDB, ATT&CK Navigator
+Automation / SOAR	Shuffle, Logic Apps
+Case Management	TheHive
+Data & BI Tools	SQL, Power BI, Tableau, SAP
 🗂️ Portfolio Structure
 📁 SOC/
       📂 SIEM-Labs/
       📂 Detection-Engineering/
-      📂 Threat-Hunting/
       📂 Incident-Response/
-      📂 Tools/
+      📂 Threat-Hunting/
 
 📁 GRC/
-      📂 Risk-Management/
       📂 ISO27001/
+      📂 Risk-Register/
       📂 Policies/
       📂 Compliance/
-      📂 Governance/
 
 📁 Projects/
       📂 SOC-Investigation/
       📂 Threat-Hunting/
-      📂 ISMS-Implementation/
       📂 SOAR-Automation/
+      📂 Governance-Pack/
 
-📁 Certifications-and-Learning/
-      📂 Certificates/
-      📂 Cheat-Sheets/
-      📂 Notes/
+📁 Certifications/
+📁 Cheat-Sheets/
+📁 Notes/
 
-🚀 Featured Projects
-🔥 Detection Engineering Lab
-
-10+ custom detections
-
-MITRE-mapped use cases
-
-Dashboards & triage flows
-
-⚙️ SOC Automation Workflows
-
-Shuffle SOAR playbooks
-
-Auto-enrichment pipelines
-
-TheHive case automation
-
-🎯 Threat Hunting Playbook
-
-15+ hunting queries
-
-Pivot maps
-
-Attack-flow diagrams
-
-🛡️ Incident Response Casebook
-
-Phishing
-
-Malware
-
-Privilege escalation
-
-Authentication attacks
-
-🏛️ ISO 27001 Governance Pack
-
-ISMS Scope
-
-SoA
-
-Risk Register
-
-Policy suite
-
-Audit evidence
-
-📘 Templates
+🚀 Featured Projects — Table Display
+🔥 SOC & Detection Engineering
+Project	Description	Deliverables
+Detection Lab	Sentinel/Splunk detections	10 rules, dashboards, triage notes
+Alert Tuning Pack	False-positive reduction	Tuning guide, baseline notes
+🛰 Threat Hunting
+Project	Description	Deliverables
+Hunt Pack	15+ threat hunts	Queries, pivot map, summaries
+MITRE Mapping	ATT&CK alignment	Technique mapping & hunt logic
+🛡 Incident Response
+Project	IR Scenario	Deliverables
+IR Casebook	Phishing, malware, brute force	Timeline, IOCs, remediation
+IR Playbooks	Automated response plans	PDF/MD playbooks
+🏛 ISO 27001 Governance Pack
+Document	Purpose
+ISMS Scope	Defines boundaries
+SoA	Annex A controls implementation
+Risk Register	Inherent & residual scoring
+Policy Suite	6 major governance policies
+📘 Templates (Organised in Tables)
 📄 Incident Report Template
-## INCIDENT REPORT
-**Analyst:**  
-**Date:**  
-**Incident Type:**  
-**Summary:**  
-**Timeline:**  
-**Root Cause:**  
-**MITRE Technique:**  
-**Actions Taken:**  
-**IOC List:**  
-**Recommendations:**  
-
-📄 KQL Detection Template
+Field	Description
+Analyst	Your name
+Summary	What happened
+Timeline	Events
+Root Cause	Findings
+MITRE	Technique mapping
+IOCs	Indicators
+Recommendations	Actions
+🧪 KQL Detection Template
 SecurityEvent
 | where EventID == 4625
 | summarize FailedAttempts = count() by Account, IPAddress
 | where FailedAttempts > 10
 
-📄 Risk Register Template
-| Risk ID | Description | Likelihood | Impact | Inherent | Controls | Residual |
-
+🧩 Risk Register Template
+Risk ID	Description	Likelihood	Impact	Controls	Residual Risk
 🌐 Connect
-<a href="https://linkedin.com"> <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-📧 Email: ajayi.oladeji.olufemi@gmail.com
+Platform	Link
+LinkedIn	Add your link
+Email	ajayi.oladeji.olufemi@gmail.com
