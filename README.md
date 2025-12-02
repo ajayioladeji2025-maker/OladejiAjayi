@@ -30,9 +30,9 @@ What I focus on:
 - Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
 Contact / Links:
-- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
-- Portfolio: https://github.com/augustineedeh2411-create
-- Email: augustineedeh2411@email.com
+- LinkedIn: www.linkedin.com/in/ajayi-oladeji
+- Portfolio: https://github.com/ajayioladeji2025-maker
+- Email: anointeddeji@gmail.com
 
 ---
 
@@ -179,7 +179,7 @@ Replace or remove badges so they only show certifications you actually hold, ali
 Goal: Build a detection lab that collects endpoint and network telemetry and triggers alerts mapped to MITRE ATT&CK. [web:22]  
 
 Repo (template):
-- Detection Lab Repo: https://github.com/yourusername/detection-lab
+- Detection Lab Repo: https://github.com/ajayioladeji2025-maker/detection-lab
 
 Deliverables:
 - Data sources connected (Sysmon, Windows Security Events, Zeek/Suricata).
@@ -213,7 +213,7 @@ Deliverables:
 Goal: Build a portfolio of incidents investigated end-to-end. [web:26]  
 
 Repo (template):
-- IR Casebook Repo: https://github.com/yourusername/incident-response-casebook
+- IR Casebook Repo: https://github.com/ajayioladeji2025-maker/incident-response-casebook
 
 Include use cases like:
 - Phishing triage and malicious URL investigation.
@@ -283,6 +283,6 @@ These links reflect common resources used by SOC and GRC professionals when buil
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourname@email.com  
-- Portfolio: https://github.com/yourusername  
+- LinkedIn: www.linkedin.com/in/ajayi-oladeji
+- Email: anointeddeji@gmail.com 
+- Portfolio: https://github.com/ajayioladeji2025-maker
