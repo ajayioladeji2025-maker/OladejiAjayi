@@ -1,185 +1,241 @@
-<div align="center">
-<span style="color:#0078FF;">🛡️ OLADEJI AJAYI 🛡️</span>
-Cybersecurity Expert • SOC Analyst • Threat Detection • GRC Specialist
-<img src="https://img.shields.io/badge/Cybersecurity-Expert-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white" /> <img src="https://img.shields.io/badge/SOC-Blue%20Team-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white" /> <img src="https://img.shields.io/badge/GRC-ISO27001%20%7C%20Risk%20Management-2E8B57?style=for-the-badge&logo=trustpilot&logoColor=white" /> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
-👋 Hello, I am Oladeji Ajayi
+<p align="center"> <img src="https://img.shields.io/badge/OLADEJI%20AJAYI-Cybersecurity%20Expert-0078FF?style=for-the-badge&logo=microsoftdefender&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/SOC-Blue%20Team-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Threat%20Detection-KQL%20%7C%20SPL-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/GRC-ISO%2027001%20%7C%20Risk-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud-Microsoft%20Security-007FFF?style=for-the-badge" /> </p>
+🛰️ About Me
 
-I am a Cybersecurity Expert specialising in Security Operations (SOC), Threat Detection, Incident Response, Cyber Governance, and Risk Management.
+I am a Cybersecurity Expert specialising in:
 
-I combine:
+Security Operations (SOC)
 
-🧠 Analytical and data-modelling expertise
+Threat Detection Engineering
 
-🛡 Hands-on SOC & Blue Team defence
+Incident Response
 
-📊 Governance, compliance, and ISO 27001 knowledge
+Governance, Risk & Compliance (GRC)
 
-🧑🏽‍💻 Real industry experience at CyberEdge Cybersecurity
+ISO 27001 & Essential Eight maturity
 
-🎓 Enterprise-level cyber training at CyberNova Academy
+Threat Hunting & Adversary Mapping
 
-…to deliver high-value, measurable cybersecurity outcomes.
+Currently:
 
-🧑🏽‍💻 CURRENT CYBERSECURITY ROLES
-🔹 Cybersecurity Intern — CyberEdge Cybersecurity
+🛡️ Cybersecurity Intern at CyberEdge Cybersecurity
 
-Actively supporting enterprise defensive operations, including:
+🎓 SOC & GRC Cohort Trainee at CyberNova Academy
 
-SIEM alert monitoring & threat investigation
+My strength is combining deep analytics + technical cyber defence + governance strategy to build resilient security programs.
 
-Log correlation & incident analysis
+📌 Table of Contents
+
+Use this to navigate easily 👉
+
+🛰️ About Me
+
+🎓 Education
+
+🧑🏽‍💻 Experience
+
+🛡️ Cybersecurity Skills
+
+📟 Tools & Platforms
+
+🗂️ Portfolio Structure
+
+🚀 Featured Projects
+
+📘 Templates
+
+🌐 Connect
+
+🎓 Education
+
+🎓 MSc — Business Information Systems
+🎓 MSc — Mathematics
+🎓 BSc — Industrial Mathematics
+🎓 Associate Member — Australian Computer Society
+
+🧑🏽‍💻 Experience
+🛡️ Cybersecurity Intern — CyberEdge Cybersecurity
+
+2025 — Present
+
+What I do:
+
+SIEM monitoring (Sentinel, Splunk)
+
+Alert triage, log analysis, escalation
 
 Detection rule testing & tuning
 
-Risk assessment support
-
-Vulnerability insights & reporting
-
-Governance documentation & audit preparation
-
 Threat intelligence enrichment
 
-This is hands-on exposure to real corporate cybersecurity environments.
+Governance documentation & audit support
 
-🔹 CyberNova Academy — SOC & GRC Cohort
+Risk assessment contributions
 
-Advanced cybersecurity training with deep dives into:
+Working with real enterprise security data
 
-Detection engineering (KQL, SPL, Sigma → SIEM rules)
+🛰️ SOC & GRC Trainee — CyberNova Academy
 
-Incident response workflows
+SOC & GRC Cohort
 
-Threat hunting mapped to MITRE ATT&CK
+Training includes:
 
-ISO 27001 ISMS documentation
+Detection engineering (KQL/SPL/Sigma)
 
-Audit readiness and compliance mapping
+Threat hunting (MITRE-ATT&CK)
 
 SOAR automations
 
-Case and ticket management
+Incident Response lifecycle
 
-🚀 CORE CYBERSECURITY EXPERTISE
-🔐 SOC / Blue Team
-<img src="https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/SIEM-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+ISO 27001 ISMS documentation
 
-Detection engineering (KQL/SPL)
+Essential Eight alignment
 
-Endpoint & network security analysis
+Policy & control development
 
-Threat hunting & adversary mapping
+💼 Business Analyst — Ministry of Economic Planning
 
-Incident Response (NIST model)
+(Résumé-verified)
 
-SOAR workflows (Shuffle, Logic Apps)
+Key Achievements:
 
-Case management (TheHive)
++15% increase in revenue via analytics
 
-Packet forensics (Wireshark, Zeek, Suricata)
++10% efficiency improvement
 
-🛡 Governance, Risk & Compliance
-<img src="https://img.shields.io/badge/Framework-ISO%2027001-2E8B57?style=for-the-badge&logo=trustpilot&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-NIST%20CSF-orange?style=for-the-badge&logo=verizon&logoColor=white" /> <img src="https://img.shields.io/badge/ACSC-Essential_8-FF4500?style=for-the-badge&logo=audi&logoColor=white" />
+20% reduction in inventory cost
 
-ISMS development (Scope, SoA, risk, controls)
++25% stakeholder satisfaction
 
-Internal audit preparation & evidence creation
+-10% operational expense
 
-Risk registers & GRC reporting
+(These support cyber risk decisions, threat modelling & reporting.)
 
-Policy & procedure development
+🛡️ Cybersecurity Skills
+⭐ Core Expertise
 
-Essential Eight maturity alignment
+SOC Analysis
 
-Vendor/third-party risk
+Threat Detection Engineering
 
-🧬 TECHNICAL SKILL BADGES
-🔹 Cyber Tools
-<img src="https://img.shields.io/badge/Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" /> <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=ghost&logoColor=white" />
-🔹 Data & Modelling
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-🏆 EDUCATION
+Incident Response (NIST IR model)
 
-✔ Associate Member — Australian Computer Society
-✔ MSc – Business Information Systems
-✔ MSc – Mathematics
-✔ BSc – Industrial Mathematics
+Threat Hunting (Endpoint, Network, Cloud)
 
-🗂 PORTFOLIO STRUCTURE
-SOC/
-  SIEM-Labs/
-  Detection-Engineering/
-  Threat-Hunting/
-  Incident-Response/
-  Tools/
+ISO 27001 Governance
 
-GRC/
-  Risk-Management/
-  Policies/
-  ISO27001/
-  Compliance/
-  Governance/
+Risk Management & Compliance
 
-Projects/
-  SOC-Investigation/
-  Threat-Hunting/
-  ISMS-Implementation/
-  Automation-Labs/
+Security Automation (SOAR)
 
-Certifications-and-Learning/
-  Certificates/
-  Cheat-Sheets/
-  Notes/
+Case Management (TheHive workflows)
 
-🧪 PROJECT HIGHLIGHTS
-🔥 1) Detection Engineering Lab
+📟 Tools & Platforms
+🔹 SIEM
+<p> <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic%20Security-005571?style=for-the-badge&logo=elastic&logoColor=white" /> </p>
+🔹 EDR / DFIR
+<p> <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=ghost&logoColor=white" /> </p>
+🔹 Network / Traffic Analysis
+<p> <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" /> <img src="https://img.shields.io/badge/Zeek-9370DB?style=for-the-badge&logo=linux&logoColor=white" /> </p>
+🔹 Data & Engineering
+<p> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </p>
+🗂️ Portfolio Structure
+📁 SOC/
+      📂 SIEM-Labs/
+      📂 Detection-Engineering/
+      📂 Threat-Hunting/
+      📂 Incident-Response/
+      📂 Tools/
 
-SIEM integrations
+📁 GRC/
+      📂 Risk-Management/
+      📂 ISO27001/
+      📂 Policies/
+      📂 Compliance/
+      📂 Governance/
 
-MITRE-based detections
+📁 Projects/
+      📂 SOC-Investigation/
+      📂 Threat-Hunting/
+      📂 ISMS-Implementation/
+      📂 SOAR-Automation/
 
-Alert tuning & dashboards
+📁 Certifications-and-Learning/
+      📂 Certificates/
+      📂 Cheat-Sheets/
+      📂 Notes/
 
-⚙️ 2) SOC Automation
+🚀 Featured Projects
+🔥 Detection Engineering Lab
 
-SOAR enrichment
+10+ custom detections
 
-Auto-ticketing
+MITRE-mapped use cases
 
-Threat intel integration
+Dashboards & triage flows
 
-🎯 3) Threat Hunting Pack
+⚙️ SOC Automation Workflows
 
-15+ queries
+Shuffle SOAR playbooks
 
-Pivot strategy diagrams
+Auto-enrichment pipelines
 
-🛡️ 4) Incident Response Casebook
+TheHive case automation
+
+🎯 Threat Hunting Playbook
+
+15+ hunting queries
+
+Pivot maps
+
+Attack-flow diagrams
+
+🛡️ Incident Response Casebook
 
 Phishing
 
 Malware
 
-Brute force attacks
+Privilege escalation
 
-🏛 5) ISO 27001 GRC Pack
+Authentication attacks
 
-ISMS scope
+🏛️ ISO 27001 Governance Pack
+
+ISMS Scope
 
 SoA
 
-Policies
+Risk Register
 
-Risk register
+Policy suite
 
 Audit evidence
 
-🧩 TEMPLATES INCLUDED
+📘 Templates
+📄 Incident Report Template
+## INCIDENT REPORT
+**Analyst:**  
+**Date:**  
+**Incident Type:**  
+**Summary:**  
+**Timeline:**  
+**Root Cause:**  
+**MITRE Technique:**  
+**Actions Taken:**  
+**IOC List:**  
+**Recommendations:**  
 
-Incident report template
-KQL detection template
-Risk register template
+📄 KQL Detection Template
+SecurityEvent
+| where EventID == 4625
+| summarize FailedAttempts = count() by Account, IPAddress
+| where FailedAttempts > 10
 
-🌐 CONNECT WITH ME
-<a href="https://linkedin.com"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+📄 Risk Register Template
+| Risk ID | Description | Likelihood | Impact | Inherent | Controls | Residual |
+
+🌐 Connect
+<a href="https://linkedin.com"> <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 📧 Email: ajayi.oladeji.olufemi@gmail.com
