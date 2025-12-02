@@ -136,7 +136,7 @@ LinkedIn: Log In or Sign Up
 :drawing_pin: CyberNova Academy Australia | :shield: CyberEdge Solutions Australia**
 <img src="https://img.shields.io/badge/CyberNova-Academy-6a0dad?style=for-the-badge&logo=AzurePipelines&logoColor=white" /> <img src="https://img.shields.io/badge/CyberEdge-Solutions_Australia-000000?style=for-the-badge&logo=SecurityScorecard&logoColor=white" /> <img src="https://img.shields.io/badge/Trainer-Dr._John_Onubogu-1E90FF?style=for-the-badge&logo=Bookmeter&logoColor=white" /> </div>
 <div align="center">
-:female-technologist::skin-tone-4: Cecilia Onubogu — SOC Analyst | GRC Consultant
+:female-technologist::skin-tone-4: Oladeji Ajayo — SOC Analyst | GRC Consultant
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/external-cybersecurity-cyber-security-flaticons-lineal-color-flat-icons-3.png"/> </div>
 I am a Cybersecurity Analyst specialising in SOC Operations & GRC.
