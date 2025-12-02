@@ -1,274 +1,288 @@
-OladejiAjayi — Cybersecurity SOC & GRC Portfolio**
-Hello, I'm Oladeji Ajayi
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-I am a Cybersecurity Analyst specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC).
- Trained under Dr. John Onubogu at CyberNova Academy Australia, and with hands-on practical experience through CyberEdge Solutions Australia, I have built deep, job-ready capabilities across:
-SIEM monitoring & log analysis
-Threat hunting & investigations
-Incident response & case management
-Vulnerability management & risk triage
-ISO 27001, NIST CSF, Essential Eight
-Audit preparation & governance documentation
-Cloud security (Microsoft, Azure, AWS)
-SOAR automation & detection engineering
-I have completed all SOC & GRC labs, projects, assessments, and enterprise simulations from the CyberNova Academy SOC/GRC Cohort.
-:school: About CyberNova Academy — SOC & GRC Cohort
-CyberNova Academy delivers a hands-on, evidence-based cybersecurity program for aspiring SOC Analysts and Cybersecurity GRC Consultants.
-Graduates complete:
-Real SOC analyst workflows
-GRC audit-ready documentation
-Enterprise-grade SIEM detections
-Incident investigations with timelines, IOCs & reports
-Azure & Microsoft security labs
-Vulnerability scanning & risk registers
-A complete GitHub portfolio with lab write-ups & screenshots
-:male-teacher: About Dr. John Onubogu — Lead Trainer & Career Coach
-Dr. John Onubogu brings decades of experience across Cloud, Security, DevOps, SOC, GRC & Government Cyber.
-His training focuses on:
-Real SIEM tools & enterprise scenarios
-Cyber defence, detection & threat hunting
-ISO 27001, NIST CSF & Essential Eight alignment
-Policy writing & audit readiness
-Vulnerability management & exposure analysis
-Career coaching & job placement
-Under his mentorship, learners produce industry-grade portfolios and projects that match Australian cybersecurity hiring standards.
-:dart: Professional Objective
-To apply my technical SOC expertise and strong GRC foundations in a modern cybersecurity team, contributing to threat detection, investigation, governance, and continuous security improvement.
-:hammer_and_spanner: Technical Skills
-SkillDescription / Project EvidenceSIEM AnalysisDetection Lab, Splunk & Sentinel InvestigationsThreat Hunting15+ Hunt Queries & Hunt Pack RepositoryIncident ResponseIR Casebook – 4 Full InvestigationsSOAR AutomationShuffle Playbooks & Logic AppsGovernance & RiskISO 27001 ISMS Pack, Risk RegisterVulnerability ManagementNessus/Tenable Scans + Risk Treatment PlanAudit & EvidenceInternal Audit Pack & SoA TemplatesCloud SecurityAzure Defender, Azure AD, Cloud App LogsDocumentationExec Reports, IR Reports, Risk Statements
-:sports_medal: Certifications
-<div> <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk_Core_User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Fortinet_NSE1__NSE2-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /> </div>
-:desktop_computer: Tools & Technologies
-SIEM
-<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic_Security-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-EDR & DFIR
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Velociraptor_DFIR-4B275F?style=for-the-badge&logoColor=white" />
-SOAR
-<img src="https://img.shields.io/badge/-Shuffle_SOAR-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Logic_Apps-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-Threat Intelligence
-MITRE ATT&CK • Sigma • VirusTotal • AbuseIPDB • MISP
-GRC Frameworks
-ISO 27001 • NIST CSF • Essential Eight • CIS Controls
-Network & IDS
-Wireshark • Suricata • Zeek
-:open_file_folder: PROJECTS (SOC + GRC)
-:one: SOC Detection Lab (SIEM, Detection Engineering & Investigations)
-Repo: https://github.com/yourusername/detection-lab
- Tools: Sentinel, Splunk, Sysmon, Zeek, Suricata
-Objectives
-Build end-to-end SIEM pipelines
-Create detections mapped to MITRE ATT&CK
-Investigate alerts using real SOC methodologies
-Deliverables
-:heavy_tick: Connected Sysmon, Windows logs & Suricata logs
- :heavy_tick: Built 10+ custom detections (KQL & SPL)
- :heavy_tick: Developed dashboards for authentication, PowerShell misuse & lateral movement
- :heavy_tick: Documented investigations with timelines, IOCs, and response actions
-Screenshot Example
+# Oladeji Ajayi - Cybersecurity-SOC-GRC | CyberNova Academy - Cybersecurity SOC & GRC
 
-![Alert Screenshot Placeholder](images/sentinel_alert_placeholder.png)
-Metrics
-280k+ events ingested
-14 detections tuned (reduced false positives by 35%)
-3 successful investigation simulations
-Reflection
-Gained confidence in SIEM logic, correlation, investigating suspicious activity, and mapping alerts to MITRE tactics.
-:two: Threat Hunting Pack — 15 Hunt Queries
-Repo: https://github.com/yourusername/threat-hunting-pack
- Tools: Sentinel, Splunk
-Hunt Themes
-Credential Access
-Persistence
-Lateral Movement
-Defense Evasion
-Deliverables
-:heavy_tick: 15 hunt queries
- :heavy_tick: Pivot map for investigation
- :heavy_tick: 3 completed hunt reports
-:three: Incident Response Casebook
-Repo: https://github.com/yourusername/incident-response-casebook
-Cases Completed
-Phishing Email → Credential Harvesting Attempt
-Password Spray Attack
-Malicious PowerShell Execution
-Suspicious Privilege Escalation
-Each case includes:
- :heavy_tick: Triage notes
- :heavy_tick: Evidence screenshots
- :heavy_tick: Containment plan
- :heavy_tick: Executive summary
-:four: SOC Automation Lab (SOAR + Case Management)
-Tools: Shuffle SOAR, TheHive, VirusTotal API
-Deliverables
-:heavy_tick: Automated enrichment playbooks
- :heavy_tick: Auto-ticket creation & IOC reputation checks
- :heavy_tick: TheHive case templates
-:five: GRC Portfolio (ISO 27001, NIST CSF, Audit, Risk)
-Repo: https://github.com/yourusername/grc-iso27001-pack
-Deliverables
-:heavy_tick: ISMS Scope
- :heavy_tick: Risk Register (10 risks)
- :heavy_tick: SoA (Annex A controls)
- :heavy_tick: 5 Core Policies
- :heavy_tick: Audit Evidence Pack
-:six: Capstone Project (SOC + GRC Combined)
-A real-company simulation combining technical + governance capability.
-Deliverables
-Full incident investigation (technical)
-Executive report (non-technical)
-Risk mapping to NIST/ISO
-Control recommendations
-Risk treatment plan
-:telephone_receiver: Contact
-LinkedIn: https://linkedin.com
-GitHub: https://github.com/yourusername
-LinkedInLinkedIn
-LinkedIn: Log In or Sign Up
-1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+# Hello, I'm Oladeji Ajayi
+<a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats while helping organisations align with industry frameworks such as ISO 27001, NIST CSF, and the ACSC Essential Eight.  
+My goal is to combine hands-on SOC skills (detection, investigation, incident response) with strong governance and risk practices to reduce cyber risk in real-world environments.
 
+---
 
+## About CyberNova Academy (Cohort: Cybersecurity SOC & GRC)
+CyberNova Academy’s SOC & GRC Cohort is a hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability (risk, compliance, ISO 27001, Essential Eight alignment, audit readiness).  
 
+Learners graduate with:
+- A GitHub portfolio with practical SOC labs and write-ups.
+- Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
+- Incident response workflow experience (tickets, cases, playbooks, reports).
+- GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
+- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging).
 
-10:29
-<div align="center">
-**:star2: Cybersecurity SOC & GRC Portfolio
-:drawing_pin: CyberNova Academy Australia | :shield: CyberEdge Solutions Australia**
-<img src="https://img.shields.io/badge/CyberNova-Academy-6a0dad?style=for-the-badge&logo=AzurePipelines&logoColor=white" /> <img src="https://img.shields.io/badge/CyberEdge-Solutions_Australia-000000?style=for-the-badge&logo=SecurityScorecard&logoColor=white" /> <img src="https://img.shields.io/badge/Trainer-Dr._John_Onubogu-1E90FF?style=for-the-badge&logo=Bookmeter&logoColor=white" /> </div>
-<div align="center">
-:female-technologist::skin-tone-4: Oladeji Ajayo — SOC Analyst | GRC Consultant
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/external-cybersecurity-cyber-security-flaticons-lineal-color-flat-icons-3.png"/> </div>
-I am a Cybersecurity Analyst specialising in SOC Operations & GRC.
- Trained under Dr. John Onubogu, I completed all CyberNova Academy SOC/GRC labs & CyberEdge Solutions Australia projects, building real job-ready capability across:
-:sparkles: SIEM Analysis
- :sparkles: Investigation & Threat Hunting
- :sparkles: Incident Response
- :sparkles: SOAR Automation
- :sparkles: ISO 27001 & NIST CSF
- :sparkles: Risk Management
- :sparkles: Vulnerability Assessment
- :sparkles: Audit & Governance Documentation
-<img src="https://img.icons8.com/color/48/graduate.png"/> About CyberNova Academy (SOC & GRC Cohort)
-CyberNova Academy provides real enterprise SOC and GRC experience, ensuring graduates walk away with:
-:heavy_tick: SIEM dashboards, detections & investigation evidence
-:heavy_tick: Risk registers, SoA, ISMS scope & compliance artefacts
-:heavy_tick: Incident reports, timelines & threat-hunting notes
-:heavy_tick: Hands-on SOAR playbooks
-:heavy_tick: A complete GitHub portfolio with screenshots
-<img src="https://img.icons8.com/office/50/training.png"/> About Dr. John Onubogu — Lead Trainer & Mentor
-Dr John Onubogu brings expertise across:
-:small_blue_diamond: Cloud Security
- :small_blue_diamond: SOC & SIEM Operations
- :small_blue_diamond: Governance, Risk & Compliance
- :small_blue_diamond: DevOps & Infrastructure
- :small_blue_diamond: Government Cyber
- :small_blue_diamond: Career Coaching & Job Readiness
-“He inspired, guided and pushed us to produce industry-grade SOC & GRC evidence employers actually want.”
-<img src="https://img.icons8.com/color/48/goal.png"/> Professional Objective
-To join a forward-thinking SOC or GRC team where I can contribute to security monitoring, threat detection, governance, risk, compliance, and continuous improvement.
-<img src="https://img.icons8.com/color/48/task.png"/> Skills & Capabilities
-:brain: Skill:file_folder: Project EvidenceSIEM InvestigationDetection Lab, Threat CasesThreat Hunting15 Hunt QueriesIncident ResponseIR CasebookVulnerability ManagementTenable & Nessus ReportsGRC WorkISO 27001 PortfolioSOAR AutomationShuffle PlaybooksCloud SecurityAzure Security LogsDocumentationExecutive Reports
-<img src="https://img.icons8.com/color/48/toolbox.png"/> Tools of the Trade
-:magnifying_glass: SIEM
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-:shield: Endpoint & DFIR
-<img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logoColor=white" />
-:robot_face: Automation
-<img src="https://img.shields.io/badge/Shuffle_SOAR-000000?style=for-the-badge&logoColor=white" />
-:globe_with_meridians: Network & IDS
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
-:blue_book: GRC Frameworks
-ISO 27001 • NIST CSF • Essential Eight • CIS
-<div align="center">
-:open_file_folder: PROJECT PORTFOLIO (SOC & GRC)
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/external-cybersecurity-technology-ecommerce-flaticons-flat-flat-icons.png"/> </div>
-:one: Detection Lab — SIEM Engineering & Investigations
-<img src="https://img.icons8.com/fluency/48/security-checked.png"/>
-Repo: https://github.com/yourusername/detection-lab
- Tools: Sentinel, Splunk, Sysmon, Suricata
-:dart: Objectives
-Build SIEM pipelines
-Create MITRE-mapped detections
-Investigate alerts end-to-end
-:rocket: Deliverables
-:heavy_tick: 10+ custom detections
- :heavy_tick: Dashboards for authentication & PowerShell
- :heavy_tick: Investigation notes & IOCs
- :heavy_tick: Screenshots of alert evidence
-Screenshot (placeholder):
+---
 
-![SIEM Dashboard Screenshot](images/sentinel_dashboard_placeholder.png)
-:bar_chart: Metrics
-:small_blue_diamond: 280,000+ events ingested
- :small_blue_diamond: 14 detections tuned (35% FP reduction)
- :small_blue_diamond: 3 complete incident investigations
-:memo: Reflection
-This lab strengthened my confidence in KQL/SPL detection logic, baseline tuning, and real analyst workflows.
-:two: Threat Hunting Pack — 15 Hunt Queries
-<img src="https://img.icons8.com/color/48/detective.png"/>
-Repo: https://github.com/yourusername/threat-hunting-pack
-:dart: Scope
-Credential Access
-Lateral Movement
-Persistence
-Reconnaissance
-:file_folder: Deliverables
-:heavy_tick: 15 hunt queries
- :heavy_tick: Pivot map
- :heavy_tick: Hunt notes & findings
-:three: Incident Response Casebook
-<img src="https://img.icons8.com/color/48/incident.png"/>
-Repo: https://github.com/yourusername/incident-response-casebook
-:open_file_folder: Cases Included
-Phishing & URL redirection
-Password spray
-Malicious PowerShell
-Privilege escalation
-:page_facing_up: Each Case Contains
-:heavy_tick: Timeline
- :heavy_tick: Evidence
- :heavy_tick: IOCs
- :heavy_tick: Containment steps
- :heavy_tick: Executive summary
-Screenshot placeholder:
+## About Oladeji Ajayi, SOC & GRC Professional
+As a SOC and GRC-focused cybersecurity professional, I work at the intersection of technical detection/response and governance-driven risk management.
+My interests include building SOC workflows, designing detections in SIEM platforms, and creating governance artifacts that map security controls to business risk and compliance requirements.
 
-![IR Evidence](images/ir_case_placeholder.png)
-:four: SOC Automation Lab — SOAR & TheHive
-<img src="https://img.icons8.com/color/48/robot-2.png"/>
-Deliverables
-Shuffle SOAR playbooks
-Automated enrichment
-Ticket auto-generation
-TheHive case templates
-Playbook Placeholder:
+What I focus on:
+- Hands-on SOC skills: log analysis, alert triage, threat hunting, and incident response in enterprise-style environments.
+- GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation.
+- Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
-![SOAR Playbook](images/soar_playbook_placeholder.png)
-:five: GRC Portfolio — ISO 27001, NIST & Audit
-<img src="https://img.icons8.com/color/48/compliance.png"/>
-Repo: https://github.com/yourusername/grc-iso27001-pack
-:blue_book: Deliverables
-:heavy_tick: Risk Register
- :heavy_tick: Statement of Applicability
- :heavy_tick: ISMS Scope
- :heavy_tick: 5 Policies
- :heavy_tick: Audit Evidence Pack
-:bar_chart: GRC Metrics
-10 risks assessed
-Controls mapped to ISO 27001 / NIST CSF
-3 areas recommended for improvement
-:six: Capstone — SOC + GRC Combined
-<img src="https://img.icons8.com/color/48/combination-chart.png"/>
-:jigsaw: What I Delivered
-:heavy_tick: Full SIEM investigation
- :heavy_tick: Executive summary
- :heavy_tick: Technical report
- :heavy_tick: Risk & control mapping
- :heavy_tick: Treatment plan
-<div align="center">
-:mailbox_with_mail: Contact Me
-<img src="https://img.icons8.com/color/48/send-letter.png"/>
-🔥 Connect on LinkedIn
- 🌐 GitHub Portfolio
- :e-mail: Email Me
+Contact / Links:
+- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
+- Portfolio: https://github.com/augustineedeh2411-create
+- Email: augustineedeh2411@email.com
+
+---
+
+## Objective
+My objective is to build a career as a SOC and GRC professional, contributing to detection, response, and governance in modern enterprises.
+I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC analyst roles where I can apply detection engineering, incident handling, and risk management to help organisations strengthen their security posture.
+
+---
+
+## SOC + GRC Cohort Outline (Edit to Match Your Official Outline)
+
+### SOC Stream (Blue Team / Detection / Response)
+- SOC Foundations: SOC roles (Tier 1/2/3), SLAs, escalation, ticket hygiene, shift handover.
+- Networking for SOC: TCP/IP, DNS, HTTP(S), TLS, email, proxies, VPN, NAT.
+- Windows & AD for SOC: logs, authentication, Kerberos, event IDs, common attack paths.
+- Linux for SOC: auth logs, systemd, bash basics, cron, suspicious persistence.
+- Log Management: telemetry sources, normalization, field mapping, enrichment.
+- Detection Engineering: Sigma → SIEM rules, baseline vs anomaly, false positive tuning.
+- Threat Hunting: hypothesis-based hunting, pivoting, timelines, investigation notes.
+- Incident Response: triage → containment → eradication → recovery → lessons learned.
+- SOAR Automation: playbooks, alert enrichment, auto-ticketing, auto-containment.
+- Reporting: executive summaries, technical summaries, IOCs, MITRE ATT&CK mapping.
+
+### GRC Stream (ISO 27001 / NIST / Essential Eight)
+- GRC Foundations: governance vs risk vs compliance, three lines model, assurance.
+- Risk Management: risk statements, likelihood/impact, inherent vs residual risk.
+- ISO 27001 ISMS: scope, context, leadership, planning, support, operation, performance, improvement.
+- Controls & Mapping: ISO 27001 Annex A mapping to NIST CSF, CIS Controls, Essential Eight.
+- Policy & Procedures: acceptable use, access control, incident management, logging.
+- Audit Prep: evidence collection, audit trails, control testing, nonconformities, CAPA.
+- Third-Party Risk: vendor assessment, security questionnaires, contracts, due diligence.
+- Governance Artifacts: risk register, SoA, ISMS scope, control implementation plan.
+
+---
+
+## Skills
+
+| Skill | Associated Project (Template) |
+|------------------------------------------------|---------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection| <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
+| Security Automation with Shuffle SOAR | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
+| Incident Response Planning and Execution | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a> |
+| Case Management with TheHive | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a> |
+
+These skills and project structures align with common SOC and GRC portfolio expectations for entry-level and junior roles.
+
+---
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+These tools are widely used in SOC environments and are commonly included in hands-on training for cyber operations and monitoring. [web:17][web:22]
+
+---
+
+## Tooling I Work With (Templates)
+
+### Logging / Telemetry Sources
+- Windows Event Logs (Security, Sysmon, PowerShell). [web:16]
+- Linux auth logs (auth.log / secure), syslog.
+- Firewall / proxy logs (template).
+- Cloud logs: Azure Activity Logs, Microsoft 365 logs, AWS CloudTrail (where applicable). [web:17]
+
+### SIEM Platforms
+- Microsoft Sentinel (KQL) — Docs: https://learn.microsoft.com/azure/sentinel/
+- Splunk (SPL) — Docs: https://docs.splunk.com/
+- Elastic Security (Kibana / KQL) — Docs: https://www.elastic.co/guide/
+
+### EDR / Endpoint Security
+- Microsoft Defender for Endpoint — Docs: https://learn.microsoft.com/microsoft-365/security/defender-endpoint/
+- Velociraptor DFIR — Docs: https://docs.velociraptor.app/
+
+### SOAR / Automation
+- Shuffle SOAR — Docs: https://shuffler.io/docs
+- TheHive (Case Management) — Docs: https://docs.thehive-project.org/
+- Microsoft Logic Apps / Sentinel Automation — Docs: https://learn.microsoft.com/azure/logic-apps/
+
+### IDS / NSM
+- Wireshark — Docs: https://www.wireshark.org/docs/
+- Zeek — Docs: https://docs.zeek.org/
+- Suricata — Docs: https://suricata.io/documentation/
+
+### Threat Intelligence / Enrichment
+- MITRE ATT&CK — https://attack.mitre.org/
+- Sigma rules — https://sigmahq.io/
+- VirusTotal — https://www.virustotal.com/
+- AbuseIPDB — https://www.abuseipdb.com/
+- MISP (optional) — https://www.misp-project.org/
+
+### Vulnerability & Exposure (Awareness)
+- Tenable / Nessus — https://www.tenable.com/products/nessus
+- Rapid7 InsightVM — https://www.rapid7.com/products/insightvm/
+- OpenVAS / Greenbone — https://www.greenbone.net/
+
+### Ticketing / Case Workflow
+- Jira / ServiceNow-style workflow (template). [web:19]
+- Evidence-driven case notes, timeline, containment actions.
+
+### GRC Frameworks & Standards
+- ISO/IEC 27001 (ISMS).
+- NIST Cybersecurity Framework (CSF).
+- CIS Controls.
+- ACSC Essential Eight (Australia). [web:14]
+
+---
+
+## Certifications (Template Badges)
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+Replace or remove badges so they only show certifications you actually hold, aligning with best practice for honest portfolio representation. [web:21][web:24]
+
+---
+
+## Projects – Detection Lab & SOC/GRC Portfolio
+
+### 1) Detection Lab (SIEM + Telemetry + Detections)
+Goal: Build a detection lab that collects endpoint and network telemetry and triggers alerts mapped to MITRE ATT&CK. [web:22]  
+
+Repo (template):
+- Detection Lab Repo: https://github.com/yourusername/detection-lab
+
+Deliverables:
+- Data sources connected (Sysmon, Windows Security Events, Zeek/Suricata).
+- 10 detections (5 basic + 5 advanced) with description, log source, query/rule, tuning notes, MITRE mapping. [web:22]
+- Dashboards / workbooks.
+- A short incident simulation with alert screenshots.
+
+### 2) SOC Automation Lab (SOAR + Case Management)
+Goal: Automate alert enrichment and response, and manage incidents like a real SOC. [web:16]  
+
+Repo (template):
+- SOC Automation Repo: https://github.com/yourusername/soc-automation
+
+Deliverables:
+- Shuffle playbook(s): enrichment (VirusTotal/AbuseIPDB), notifications, ticket creation.
+- TheHive case template (severity, tasks, IOCs, timeline, response actions).
+- Post-incident report template (PDF/Markdown). [web:19]
+
+### 3) Threat Hunt Pack (Hunt Queries + Investigation Notes)
+Goal: Create a repeatable hunting pack for common attacker behaviours. [web:22]  
+
+Repo (template):
+- Threat Hunting Repo: https://github.com/yourusername/threat-hunting-pack
+
+Deliverables:
+- 15 hunt queries (KQL/SPL/Elastic).
+- Investigation “pivot map” (key fields to pivot on).
+- 3 hunt write-ups with screenshots and conclusions.
+
+### 4) Incident Response Casebook (Tier 1 → Tier 2 Ready)
+Goal: Build a portfolio of incidents investigated end-to-end. [web:26]  
+
+Repo (template):
+- IR Casebook Repo: https://github.com/yourusername/incident-response-casebook
+
+Include use cases like:
+- Phishing triage and malicious URL investigation.
+- Brute force / password spray detection and response.
+- Malware execution (PowerShell) hunt and containment.
+- Suspicious admin activity / privilege escalation. [web:22]
+
+### 5) GRC Portfolio Pack (ISO 27001 + Risk + Audit Evidence)
+Goal: Show that you can work in GRC and support audits and compliance activities. [web:14][web:26]  
+
+Repo (template):
+- GRC Portfolio Repo: https://github.com/yourusername/grc-iso27001-pack
+
+Deliverables:
+- ISMS Scope statement (template + filled example).
+- Statement of Applicability (SoA) (template).
+- Risk Register (inherent/residual) (template).
+- 5 policies (AUP, Access Control, Logging, Incident Response, Vendor Risk).
+- Audit evidence pack (how controls are proved and monitored). [web:17]
+
+### 6) Capstone Project (SOC + GRC Combined)
+Goal: Demonstrate that you can operate as a SOC analyst and translate work into governance and risk artifacts. [web:26]  
+
+Repo (template):
+- Capstone Repo: https://github.com/yourusername/soc-grc-capstone
+
+Capstone deliverables:
+- Detection plus incident investigation.
+- Executive report (1–2 pages).
+- Technical report with IOCs and timelines.
+- GRC mapping: risks identified + control recommendations (ISO 27001/NIST/Essential Eight).
+- Treatment plan with priorities and owners. [web:14]
+
+---
+
+## Useful Links (Portfolio Template)
+
+### SIEM Query Languages
+- KQL (Sentinel): https://learn.microsoft.com/azure/data-explorer/kusto/query/
+- Splunk SPL: https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/
+- Elastic Query / KQL: https://www.elastic.co/guide/en/kibana/current/kuery-query.html
+
+### Detection Engineering & Frameworks
+- MITRE ATT&CK: https://attack.mitre.org/
+- SigmaHQ: https://sigmahq.io/
+- Atomic Red Team (optional): https://atomicredteam.io/
+
+### Documentation & Reporting Templates (Create These in Your Repo)
+- Incident Report Template: https://github.com/yourusername/templates/incident-report
+- Executive Summary Template: https://github.com/yourusername/templates/executive-summary
+- Risk Register Template: https://github.com/yourusername/templates/risk-register
+- SoA Template: https://github.com/yourusername/templates/statement-of-applicability
+
+These links reflect common resources used by SOC and GRC professionals when building a learning and lab environment. [web:22][web:26]
+
+---
+
+## How to Use This Repo
+1. Create a GitHub repository named exactly your GitHub username (for example, `AugustineEdeh`) so this README becomes your profile page. [web:16]  
+2. Replace placeholder links (`yourusername`, example URLs) with your actual repositories and resources.  
+3. Add screenshots to an `/images` directory and reference them in this README.  
+4. Each week, add:
+   - 1 lab write-up.
+   - 1 detection or hunt query.
+   - 1 short reflection (“What I learned”). [web:19]
+
+---
+
+## Contact
+- LinkedIn: https://linkedin.com/in/your-link  
+- Email: yourname@email.com  
+- Portfolio: https://github.com/yourusername  
