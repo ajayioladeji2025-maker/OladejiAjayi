@@ -1,7 +1,7 @@
 # Oladeji Ajayi - Cybersecurity-SOC-GRC | CyberNova Academy - Cybersecurity SOC & GRC
 
 # Hello, I'm Oladeji Ajayi
-<a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ajayi-oladeji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats while helping organisations align with industry frameworks such as ISO 27001, NIST CSF, and the ACSC Essential Eight.  
 My goal is to combine hands-on SOC skills (detection, investigation, incident response) with strong governance and risk practices to reduce cyber risk in real-world environments.
