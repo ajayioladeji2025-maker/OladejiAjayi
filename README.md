@@ -1,176 +1,115 @@
-Oladeji Ajayi — Cybersecurity Expert | SOC • Threat Detection • GRC • Risk Management
-<a href="https://linkedin.com"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<div align="center">
+<span style="color:#0078FF;">🛡️ OLADEJI AJAYI 🛡️</span>
+Cybersecurity Expert • SOC Analyst • Threat Detection • GRC Specialist
+<img src="https://img.shields.io/badge/Cybersecurity-Expert-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white" /> <img src="https://img.shields.io/badge/SOC-Blue%20Team-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white" /> <img src="https://img.shields.io/badge/GRC-ISO27001%20%7C%20Risk%20Management-2E8B57?style=for-the-badge&logo=trustpilot&logoColor=white" /> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 👋 Hello, I am Oladeji Ajayi
 
-I am a Cybersecurity Expert specialising in Security Operations (SOC), Threat Detection, Cyber Governance, Risk Management, and Compliance.
-My expertise blends advanced analytical capability, enterprise risk strategy, and hands-on defensive security skills to strengthen organisational cyber resilience across both technical and governance layers.
+I am a Cybersecurity Expert specialising in Security Operations (SOC), Threat Detection, Incident Response, Cyber Governance, and Risk Management.
 
-With a strong background in data analysis, strategic decision-making, stakeholder communication, and technical security tooling, I bring a hybrid SOC + GRC skillset ideal for modern cybersecurity operations.
+I combine:
 
-My mission is to deliver measurable security outcomes by turning:
-🔹 data into intelligence,
-🔹 alerts into action, and
-🔹 risks into well-managed decisions.
+🧠 Analytical and data-modelling expertise
 
-🚀 Cybersecurity & Professional Expertise
-🔐 Security Operations (SOC Expertise)
+🛡 Hands-on SOC & Blue Team defence
 
-SIEM operations (Sentinel, Splunk, Elastic)
+📊 Governance, compliance, and ISO 27001 knowledge
 
-Threat detection engineering (KQL, SPL, Sigma → SIEM rules)
+🧑🏽‍💻 Real industry experience at CyberEdge Cybersecurity
 
-Endpoint, network, and cloud telemetry analysis
+🎓 Enterprise-level cyber training at CyberNova Academy
 
-MITRE ATT&CK mapping and adversary behaviour analysis
+…to deliver high-value, measurable cybersecurity outcomes.
 
-Threat hunting methodologies (hypothesis-driven)
+🧑🏽‍💻 CURRENT CYBERSECURITY ROLES
+🔹 Cybersecurity Intern — CyberEdge Cybersecurity
 
-Incident response lifecycle: triage → containment → eradication → recovery
+Actively supporting enterprise defensive operations, including:
 
-Automation & SOAR workflows (Shuffle, Logic Apps)
+SIEM alert monitoring & threat investigation
 
-Case and ticket management (TheHive, ServiceNow-style frameworks)
+Log correlation & incident analysis
 
-🛡 Governance, Risk & Compliance (GRC Expertise)
+Detection rule testing & tuning
 
-ISO 27001 ISMS development (scope, SoA, risk, controls)
+Risk assessment support
 
-Enterprise risk registers and risk treatment planning
+Vulnerability insights & reporting
 
-ACSC Essential Eight & CIS Controls compliance alignment
+Governance documentation & audit preparation
 
-Policy development (AUP, Logging, Access Control, Incident Response)
+Threat intelligence enrichment
 
-Third-party/vendor risk assessments
+This is hands-on exposure to real corporate cybersecurity environments.
 
-Audit readiness and evidence documentation
+🔹 CyberNova Academy — SOC & GRC Cohort
 
-Governance reporting for executives & stakeholders
+Advanced cybersecurity training with deep dives into:
 
-🎓 Education & Professional Credentials
+Detection engineering (KQL, SPL, Sigma → SIEM rules)
 
-According to your résumé (page 2): 
+Incident response workflows
 
-Indus Resume
+Threat hunting mapped to MITRE ATT&CK
 
-Associate Member — Australian Computer Society (ACS)
+ISO 27001 ISMS documentation
 
-MSc – Business Information Systems (Torrens University Australia, 2023)
+Audit readiness and compliance mapping
 
-MSc – Mathematics (University of Ibadan, 2016)
+SOAR automations
 
-BSc – Industrial Mathematics (AAUA, 2011)
+Case and ticket management
 
-This academic background gives you:
-✔ Deep analytical, modelling, and problem-solving capability
-✔ Strong IT/business alignment knowledge
-✔ High-level reasoning for threat modelling, incident analysis & risk evaluation
+🚀 CORE CYBERSECURITY EXPERTISE
+🔐 SOC / Blue Team
+<img src="https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/SIEM-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 
-💼 Professional Experience & Achievements
+Detection engineering (KQL/SPL)
 
-Your résumé provides strong, quantifiable achievements, which I have integrated directly into your cybersecurity branding. (All citations reference your resume.)
+Endpoint & network security analysis
 
-Business Analyst — Ondo State Ministry of Economic Planning (11 years)
+Threat hunting & adversary mapping
 
-Business Intelligence, Data Analysis, Modelling, Risk Insight
+Incident Response (NIST model)
 
-Delivered 15% increase in revenue opportunities through analytical insights. 
+SOAR workflows (Shuffle, Logic Apps)
 
-Indus Resume
+Case management (TheHive)
 
-Implemented data-driven strategies that improved operational efficiency by 10%. 
+Packet forensics (Wireshark, Zeek, Suricata)
 
-Indus Resume
+🛡 Governance, Risk & Compliance
+<img src="https://img.shields.io/badge/Framework-ISO%2027001-2E8B57?style=for-the-badge&logo=trustpilot&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-NIST%20CSF-orange?style=for-the-badge&logo=verizon&logoColor=white" /> <img src="https://img.shields.io/badge/ACSC-Essential_8-FF4500?style=for-the-badge&logo=audi&logoColor=white" />
 
-Applied advanced modelling to reduce inventory costs by 20%. 
+ISMS development (Scope, SoA, risk, controls)
 
-Indus Resume
+Internal audit preparation & evidence creation
 
-Led stakeholder workshops improving satisfaction by 25%. 
+Risk registers & GRC reporting
 
-Indus Resume
+Policy & procedure development
 
-Identified process improvements that cut operational expenses by 10%. 
+Essential Eight maturity alignment
 
-Indus Resume
+Vendor/third-party risk
 
-These skills directly map to:
-✔ Threat modelling
-✔ SOC analytics
-✔ Risk assessments
-✔ Executive reporting
-✔ Data-driven decision-making for cyber defence
+🧬 TECHNICAL SKILL BADGES
+🔹 Cyber Tools
+<img src="https://img.shields.io/badge/Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" /> <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=ghost&logoColor=white" />
+🔹 Data & Modelling
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+🏆 EDUCATION
 
-Cyber & Tech Internship — Torrens University, Social Enterprise Hub
+✔ Associate Member — Australian Computer Society
+✔ MSc – Business Information Systems
+✔ MSc – Mathematics
+✔ BSc – Industrial Mathematics
 
-Led stakeholder analysis for Linking Futures (recognised by Aboriginal Training Organisation). 
-
-Indus Resume
-
-Designed a full change management plan for LMS transition (zero interruption).
-
-Secured government grants for the migration.
-
-Managed budget planning and cost controls.
-
-Conducted persona analysis improving training program effectiveness.
-
-These achievements demonstrate:
-✔ Governance & communication excellence
-✔ Documentation & stakeholder management
-✔ Risk evaluation & change impact analysis
-✔ High-value cyber GRC transferable skills
-
-🧰 Technical Skill Set
-Cybersecurity Tools
-
-Microsoft Sentinel (KQL, analytics, detections)
-
-Splunk (SPL, dashboards, investigations)
-
-Elastic Security
-
-Microsoft Defender for Endpoint
-
-Velociraptor DFIR
-
-Wireshark / Suricata / Zeek
-
-Shuffle SOAR
-
-TheHive Case Management
-
-Analytics, Data & Engineering Tools
-
-(from résumé page 2) 
-
-Indus Resume
-
-SQL, Power BI, Tableau, SAP, ERPs
-
-Regression & statistical modelling
-
-Database management
-
-Financial modelling
-
-These tools enhance:
-✔ Detection engineering
-✔ Data-driven threat analysis
-✔ SOC dashboards
-✔ Risk quantification
-
-📂 Portfolio Structure
-
-(Your complete cybersecurity portfolio layout)
-
+🗂 PORTFOLIO STRUCTURE
 SOC/
   SIEM-Labs/
-    Sentinel/
-    Splunk/
   Detection-Engineering/
-  Incident-Response/
   Threat-Hunting/
+  Incident-Response/
   Tools/
 
 GRC/
@@ -181,39 +120,40 @@ GRC/
   Governance/
 
 Projects/
-  Project-01-SOC-Investigation/
-  Project-02-ISMS-Mini-Implementation/
-  Project-03-Threat-Hunting/
+  SOC-Investigation/
+  Threat-Hunting/
+  ISMS-Implementation/
+  Automation-Labs/
 
 Certifications-and-Learning/
   Certificates/
-  Study-Notes/
   Cheat-Sheets/
+  Notes/
 
-🧪 Key Cybersecurity Projects (Active & Upcoming)
-1️⃣ End-to-End Detection Lab
+🧪 PROJECT HIGHLIGHTS
+🔥 1) Detection Engineering Lab
 
-SIEM integration (Sysmon, DNS, Firewall logs)
+SIEM integrations
 
-10+ detection use-cases (MITRE mapped)
+MITRE-based detections
 
-Dashboards & incident simulations
+Alert tuning & dashboards
 
-2️⃣ SOC Automation Lab
+⚙️ 2) SOC Automation
 
-SOAR enrichment workflows
+SOAR enrichment
 
-Automated case creation
+Auto-ticketing
 
-Threat intel integration (VT, AbuseIPDB)
+Threat intel integration
 
-3️⃣ Threat Hunting Pack
+🎯 3) Threat Hunting Pack
 
-15 hunting queries (KQL/SPL)
+15+ queries
 
-Pivot strategies & investigation notes
+Pivot strategy diagrams
 
-4️⃣ Incident Response Casebook
+🛡️ 4) Incident Response Casebook
 
 Phishing
 
@@ -221,32 +161,25 @@ Malware
 
 Brute force attacks
 
-Privilege escalation
-
-5️⃣ GRC Portfolio (ISO 27001 & Risk)
+🏛 5) ISO 27001 GRC Pack
 
 ISMS scope
 
 SoA
 
+Policies
+
 Risk register
 
-Policy set
+Audit evidence
 
-Audit evidence pack
+🧩 TEMPLATES INCLUDED
 
-📘 Useful Cybersecurity Resources
+Incident report template
+KQL detection template
+Risk register template
 
-KQL: https://learn.microsoft.com/azure/data-explorer/kusto/query/
+🌐 CONNECT WITH ME
+<a href="https://linkedin.com"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-SPL: https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/
-
-MITRE ATT&CK: https://attack.mitre.org/
-
-Essential Eight: https://www.cyber.gov.au/acsc/view-all-content/essential-eight
-
-📞 Connect With Me
-
-LinkedIn: Add your real link here
-
-Email: ajayi.oladeji.olufemi@gmail.com
+📧 Email: ajayi.oladeji.olufemi@gmail.com
